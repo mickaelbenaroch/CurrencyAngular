@@ -1,0 +1,117 @@
+{
+    "LAST_UPDATE": "2019-04-25",
+    "CURRENCY": [
+       {
+          "NAME": "Dollar",
+          "UNIT": "1",
+          "CURRENCYCODE": "USD",
+          "COUNTRY": "USA",
+          "RATE": "3.628",
+          "CHANGE": "0.387"
+       },
+       {
+          "NAME": "Pound",
+          "UNIT": "1",
+          "CURRENCYCODE": "GBP",
+          "COUNTRY": "Great Britain",
+          "RATE": "4.6797",
+          "CHANGE": "0.15"
+       },
+       {
+          "NAME": "Yen",
+          "UNIT": "100",
+          "CURRENCYCODE": "JPY",
+          "COUNTRY": "Japan",
+          "RATE": "3.2442",
+          "CHANGE": "0.402"
+       },
+       {
+          "NAME": "Euro",
+          "UNIT": "1",
+          "CURRENCYCODE": "EUR",
+          "COUNTRY": "EMU",
+          "RATE": "4.0473",
+          "CHANGE": "-0.158"
+       },
+       {
+          "NAME": "Dollar",
+          "UNIT": "1",
+          "CURRENCYCODE": "AUD",
+          "COUNTRY": "Australia",
+          "RATE": "2.5445",
+          "CHANGE": "-0.063"
+       },
+       {
+          "NAME": "Dollar",
+          "UNIT": "1",
+          "CURRENCYCODE": "CAD",
+          "COUNTRY": "Canada",
+          "RATE": "2.6876",
+          "CHANGE": "0.033"
+       },
+       {
+          "NAME": "krone",
+          "UNIT": "1",
+          "CURRENCYCODE": "DKK",
+          "COUNTRY": "Denmark",
+          "RATE": "0.5420",
+          "CHANGE": "-0.166"
+       },
+       {
+          "NAME": "Krone",
+          "UNIT": "1",
+          "CURRENCYCODE": "NOK",
+          "COUNTRY": "Norway",
+          "RATE": "0.4181",
+          "CHANGE": "-0.83"
+       },
+       {
+          "NAME": "Rand",
+          "UNIT": "1",
+          "CURRENCYCODE": "ZAR",
+          "COUNTRY": "South Africa",
+          "RATE": "0.2504",
+          "CHANGE": "-0.635"
+       },
+       {
+          "NAME": "Krona",
+          "UNIT": "1",
+          "CURRENCYCODE": "SEK",
+          "COUNTRY": "Sweden",
+          "RATE": "0.3803",
+          "CHANGE": "-1.502"
+       },
+       {
+          "NAME": "Franc",
+          "UNIT": "1",
+          "CURRENCYCODE": "CHF",
+          "COUNTRY": "Switzerland",
+          "RATE": "3.5539",
+          "CHANGE": "0.158"
+       },
+       {
+          "NAME": "Dinar",
+          "UNIT": "1",
+          "CURRENCYCODE": "JOD",
+          "COUNTRY": "Jordan",
+          "RATE": "5.1210",
+          "CHANGE": "0.475"
+       },
+       {
+          "NAME": "Pound",
+          "UNIT": "10",
+          "CURRENCYCODE": "LBP",
+          "COUNTRY": "Lebanon",
+          "RATE": "0.0241",
+          "CHANGE": "0.417"
+       },
+       {
+          "NAME": "Pound",
+          "UNIT": "1",
+          "CURRENCYCODE": "EGP",
+          "COUNTRY": "Egypt",
+          "RATE": "0.2112",
+          "CHANGE": "0.428"
+       }
+    ]
+ }

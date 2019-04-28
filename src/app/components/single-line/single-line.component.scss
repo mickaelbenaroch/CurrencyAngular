@@ -1,0 +1,39 @@
+.envelop{
+    display: flex;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    .div-1{
+        width: 20%;
+        padding: 1rem;
+        border-left: 1px lightgray solid;
+        border-top: 1px lightgray solid;
+        border-bottom: 1px lightgray solid;
+        border-right: 1px lightgray solid;
+        .column-1{
+
+        }
+    }
+    .div-2{
+        width: 20%;
+        padding: 1rem;        
+        border-left: 1px lightgray solid;
+        border-top: 1px lightgray solid;
+        border-bottom: 1px lightgray solid;
+        border-right: 1px lightgray solid;
+        .column-2{
+            
+        }
+    }
+    .div-3{
+        font-style: italic;
+        width: 20%;
+        padding: 1rem;
+        border-right: 1px lightgray solid;
+        border-top: 1px lightgray solid;
+        border-bottom: 1px lightgray solid;
+        border-left: 1px lightgray solid;
+        .column-3{
+            
+        }
+    }
+}

@@ -1,0 +1,23 @@
+<div class="envelop">
+  <header>
+    <app-table-title [title]="tableName"></app-table-title>
+  </header>
+
+  <main *ngIf="currencyservice.Model !== undefined">
+    <app-table-header [LeftItem]="leftItemHeader" 
+                      [CenterItem]="centerItemHeader" 
+                      [RightItem]="rightItemHeader"
+                      (sortLeftEvent)="Sort($event)">
+    </app-table-header>
+    <app-single-line *ngFor="let line of currencyservice.Model.CURRENCY"
+                     [LeftItem]=line.NAME
+                     [CenterItem]="line.CURRENCYCODE"                     
+                     [RightItem]="line.RATE">
+    </app-single-line>
+  </main>
+
+  <footer *ngIf="currencyservice.Model !== undefined">
+    <app-date-update [date]="currencyservice.Model.LAST_UPDATE"></app-date-update>
+    <angular2csv id="but" [data]="currencyservice.Model.CURRENCY" filename="test.csv"></angular2csv>
+  </footer>
+</div>
